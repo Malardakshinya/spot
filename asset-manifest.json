@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90ca0848.css",
+    "main.js": "/static/js/main.ae82ec7c.js",
+    "static/js/787.9ce9f379.chunk.js": "/static/js/787.9ce9f379.chunk.js",
+    "static/media/swiper2.jpg": "/static/media/swiper2.bbf0842303649d2ccdd9.jpg",
+    "static/media/b2s4.jpg": "/static/media/b2s4.7ed4c153a40a7fcb69fa.jpg",
+    "static/media/b2s3.jpg": "/static/media/b2s3.9307ffe08da96010c370.jpg",
+    "static/media/swiper3.jpg": "/static/media/swiper3.b79e48aee19199b91afe.jpg",
+    "static/media/box1bottom.jpg": "/static/media/box1bottom.07ebf38ae7d4e0bf0bc6.jpg",
+    "static/media/swipper1.jpg": "/static/media/swipper1.4e1755c9322f9316045c.jpg",
+    "static/media/b2s1.jpg": "/static/media/b2s1.8b0f20b9c140e6f6040f.jpg",
+    "static/media/b2s2.jpg": "/static/media/b2s2.49438b08e6c064aab0d8.jpg",
+    "static/media/b2s5.jpg": "/static/media/b2s5.6ddf48b3e5cdf554ed9a.jpg",
+    "static/media/b2.jpg": "/static/media/b2.31adb6d2d33155649bda.jpg",
+    "static/media/b3.jpg": "/static/media/b3.db3416e8aaca99d15dd5.jpg",
+    "static/media/instagram.jpg": "/static/media/instagram.fb6c00900e26bd271127.jpg",
+    "static/media/twitter.jpg": "/static/media/twitter.a7e0cbc3b77ea05b56ac.jpg",
+    "static/media/box1top.jpg": "/static/media/box1top.ede97db2d19dde2c3639.jpg",
+    "static/media/b1.jpg": "/static/media/b1.c87dbd2bd43f4f21ecd5.jpg",
+    "index.html": "/index.html",
+    "main.90ca0848.css.map": "/static/css/main.90ca0848.css.map",
+    "main.ae82ec7c.js.map": "/static/js/main.ae82ec7c.js.map",
+    "787.9ce9f379.chunk.js.map": "/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ca0848.css",
+    "static/js/main.ae82ec7c.js"
+  ]
+}
